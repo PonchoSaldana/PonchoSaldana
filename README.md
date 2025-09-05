@@ -52,7 +52,7 @@ Although my main focus is backend, I also have knowledge in frontend with **Nuxt
 ## 📊 GitHub Stats  
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PonchoSaldana&theme=dark&border_radius=6)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PonchoSaldana&theme=youtube-dark" alt="GitHub Streak" /></a>
 
 </p>
 
