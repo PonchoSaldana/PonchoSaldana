@@ -15,8 +15,9 @@ Although my main focus is backend, I also have knowledge in frontend with **Nuxt
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-003B57?style=for-the-badge&logo=database&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-003B57?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-003B57?style=for-the-badge&logo=Python&logoColor=white) 
 
 
 #### ⭐ Styling & Markup
