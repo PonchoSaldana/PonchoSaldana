@@ -8,7 +8,6 @@ I am a university student passionate about secure and scalable software developm
 
 ## About Me
 
-- Currently working on: Lumina, a comprehensive university school management platform.
 - Studying: Differential Equations, Applied Databases, and Ethical Hacking (CTFs).
 - Interests: Web Application Security (AppSec), Pentesting, Secure Software Architecture.
 - Languages: Spanish (Native), English (Active Learner).
