@@ -64,17 +64,7 @@ I am a university student passionate about secure and scalable software developm
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://img.shields.io/github/stars/PonchoSaldana?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PonchoSaldana?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/PonchoSaldana?style=for-the-badge" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/github/languages/top/PonchoSaldana?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/PonchoSaldana?style=for-the-badge" />
-</p>
->
+<img src="https://metrics.lecoq.io/PonchoSaldana?template=classic&languages=1&achievements=1&followup=1&config.timezone=America/Mexico_City">
 
 
 ---
