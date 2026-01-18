@@ -2,7 +2,7 @@
 
 ## Full Stack Developer & Cybersecurity Enthusiast
 
-I am a university student passionate about secure and scalable software development. I specialize in building modern web applications and mobile solutions, combining robust architecture with security best practices.
+I am a university student passionate about secure and scalable software development. I focus on building modern web and mobile applications, applying security best practices and clean architecture principles.
 
 ---
 
@@ -64,12 +64,26 @@ I am a university student passionate about secure and scalable software developm
 
 ## GitHub Stats
 
-![Alfonso's Stats](https://github-readme-stats.vercel.app/api?username=PonchoSaldana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PonchoSaldana&layout=compact&theme=radical)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PonchoSaldana&show_icons=true&theme=radical&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchoSaldana&layout=compact&theme=radical&hide_border=true" 
+    height="165"
+  />
+</p>
 
 ---
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/alfonso-saldaña-camacho-b93002392?utm_source=share_via&utm_content=profile&utm_medium=member_android 
-- Email: saldanacamacho12@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/alfonso-saldaña-camacho-b93002392" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="mailto:saldanacamacho12@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
