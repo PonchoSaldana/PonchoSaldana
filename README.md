@@ -65,19 +65,16 @@ I am a university student passionate about secure and scalable software developm
 ## GitHub Stats
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PonchoSaldana&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-    height="165"
-    referrerpolicy="no-referrer"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchoSaldana&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-    height="165"
-    referrerpolicy="no-referrer"
-  />
+  <img src="https://img.shields.io/github/stars/PonchoSaldana?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PonchoSaldana?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/PonchoSaldana?style=for-the-badge" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/github/languages/top/PonchoSaldana?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/PonchoSaldana?style=for-the-badge" />
+</p>
+>
 
 
 ---
