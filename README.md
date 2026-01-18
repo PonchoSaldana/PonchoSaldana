@@ -1,4 +1,4 @@
-# Hi there! I'm Alfonso Saldaña
+# Hi, I'm Alfonso Saldaña
 
 ## Full Stack Developer & Cybersecurity Enthusiast
 
