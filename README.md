@@ -65,12 +65,12 @@ I am a university student passionate about secure and scalable software developm
 ## GitHub Stats
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PonchoSaldana&show_icons=true&theme=radical&hide_border=true" 
+  <img
+    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/overview.svg#PonchoSaldana"
     height="165"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PonchoSaldana&layout=compact&theme=radical&hide_border=true" 
+  <img
+    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/generated/languages.svg#PonchoSaldana"
     height="165"
   />
 </p>
@@ -84,6 +84,7 @@ I am a university student passionate about secure and scalable software developm
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="mailto:saldanacamacho12@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40"/>
   </a>
 </p>
+
