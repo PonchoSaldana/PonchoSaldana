@@ -2,7 +2,7 @@
 
 ## Full Stack Developer & Cybersecurity Enthusiast
 
-I am a university student passionate about secure and scalable software development. I focus on building modern web and mobile applications, applying security best practices and clean architecture principles.
+I am a university student passionate about secure and scalable software development. I focus on building modern web and mobile applications, applying security best practices, clean architecture principles, and Cloud Computing with AWS.
 
 ---
 
@@ -47,6 +47,7 @@ I am a university student passionate about secure and scalable software developm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
 </p>
 
 ### Tools & Security
@@ -57,6 +58,7 @@ I am a university student passionate about secure and scalable software developm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" alt="Arduino"/>
 </p>
 
 ---
