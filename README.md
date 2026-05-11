@@ -1,6 +1,6 @@
 # Hi, I'm Alfonso Saldaña
 
-## Full Stack Developer & Student
+## Full Stack Developer
 
 I am a university student passionate about secure and scalable software development. I focus on building modern web and mobile applications, applying security best practices, clean architecture principles, and Cloud Computing with AWS.
 
